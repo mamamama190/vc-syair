@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://akuciumkamu.vercel.app/sitemap.xml
